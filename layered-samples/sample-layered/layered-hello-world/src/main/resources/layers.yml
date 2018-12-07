@@ -1,0 +1,8 @@
+name: default
+path: layered-greeter/target/classes
+rootModules: layered.greeter
+---
+name: world
+parent: default
+path: layered-name-provider/target/classes
+rootModules: layered.name.provider

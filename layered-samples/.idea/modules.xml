@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sample-create-layer-load-services/another-hello-beautiful-world-provider/another-hello-beautiful-world-provider.iml" filepath="$PROJECT_DIR$/sample-create-layer-load-services/another-hello-beautiful-world-provider/another-hello-beautiful-world-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-create-layer-load-services/another-hello-world/another-hello-world.iml" filepath="$PROJECT_DIR$/sample-create-layer-load-services/another-hello-world/another-hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-create-layer-load-services/another-hello-world-provider/another-hello-world-provider.iml" filepath="$PROJECT_DIR$/sample-create-layer-load-services/another-hello-world-provider/another-hello-world-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-create-layer/hello-beautiful-world-provider/hello-beautiful-world-provider.iml" filepath="$PROJECT_DIR$/sample-create-layer/hello-beautiful-world-provider/hello-beautiful-world-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-create-layer/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/sample-create-layer/hello-world/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-create-layer/hello-world-provider/hello-world-provider.iml" filepath="$PROJECT_DIR$/sample-create-layer/hello-world-provider/hello-world-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-layered/layered-greeter/layered-greeter.iml" filepath="$PROJECT_DIR$/sample-layered/layered-greeter/layered-greeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-layered/layered-hello-world/layered-hello-world.iml" filepath="$PROJECT_DIR$/sample-layered/layered-hello-world/layered-hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-layered/layered-name-provider/layered-name-provider.iml" filepath="$PROJECT_DIR$/sample-layered/layered-name-provider/layered-name-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layered-samples.iml" filepath="$PROJECT_DIR$/layered-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-meta-data-layer/onemore-hello-beautiful-world-provider/onemore-hello-beautiful-world-provider.iml" filepath="$PROJECT_DIR$/sample-meta-data-layer/onemore-hello-beautiful-world-provider/onemore-hello-beautiful-world-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-meta-data-layer/onemore-hello-world/onemore-hello-world.iml" filepath="$PROJECT_DIR$/sample-meta-data-layer/onemore-hello-world/onemore-hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-meta-data-layer/onemore-hello-world-provider/onemore-hello-world-provider.iml" filepath="$PROJECT_DIR$/sample-meta-data-layer/onemore-hello-world-provider/onemore-hello-world-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-create-layer/sample-create-layer.iml" filepath="$PROJECT_DIR$/sample-create-layer/sample-create-layer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-create-layer-load-services/sample-create-layer-load-services.iml" filepath="$PROJECT_DIR$/sample-create-layer-load-services/sample-create-layer-load-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-layered/sample-layered.iml" filepath="$PROJECT_DIR$/sample-layered/sample-layered.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-meta-data-layer/sample-meta-data-layer.iml" filepath="$PROJECT_DIR$/sample-meta-data-layer/sample-meta-data-layer.iml" />
+    </modules>
+  </component>
+</project>

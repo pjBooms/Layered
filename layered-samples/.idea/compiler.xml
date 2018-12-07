@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="another-hello-beautiful-world-provider" />
+        <module name="another-hello-world" />
+        <module name="another-hello-world-provider" />
+        <module name="hello-beautiful-world-provider" />
+        <module name="hello-world" />
+        <module name="hello-world-provider" />
+        <module name="layered-greeter" />
+        <module name="layered-hello-world" />
+        <module name="layered-name-provider" />
+        <module name="onemore-hello-beautiful-world-provider" />
+        <module name="onemore-hello-world" />
+        <module name="onemore-hello-world-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="another-hello-beautiful-world-provider" target="10" />
+      <module name="another-hello-world" target="10" />
+      <module name="another-hello-world-provider" target="10" />
+      <module name="hello-beautiful-world-provider" target="10" />
+      <module name="hello-world" target="10" />
+      <module name="hello-world-provider" target="10" />
+      <module name="layered-greeter" target="10" />
+      <module name="layered-hello-world" target="10" />
+      <module name="layered-name-provider" target="10" />
+      <module name="layered-samples" target="9" />
+      <module name="onemore-hello-beautiful-world-provider" target="10" />
+      <module name="onemore-hello-world" target="10" />
+      <module name="onemore-hello-world-provider" target="10" />
+      <module name="sample-create-layer" target="9" />
+      <module name="sample-create-layer-load-services" target="9" />
+      <module name="sample-layered" target="9" />
+      <module name="sample-meta-data-layer" target="9" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

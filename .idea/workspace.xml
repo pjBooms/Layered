@@ -2,27 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab77b9ad-8cf0-449b-992c-89408b259cbe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/layered-samples/sample-dependency-injection/di-hello-world-provider/di-hello-world-provider.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layered-samples/sample-dependency-injection/di-hello-world-provider/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layered-samples/sample-dependency-injection/di-hello-world-provider/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layered-samples/sample-dependency-injection/di-hello-world-provider/src/main/java/ru/excelsior/layered/samples/helloworldprovider/HelloWorldProviderImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layered-samples/sample-dependency-injection/di-hello-world/di-hello-world.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layered-samples/sample-dependency-injection/di-hello-world/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layered-samples/sample-dependency-injection/di-hello-world/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layered-samples/sample-dependency-injection/di-hello-world/src/main/java/ru/excelsior/layered/samples/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layered-samples/sample-dependency-injection/di-hello-world/src/main/java/ru/excelsior/layered/samples/spi/helloworldprovider/HelloWorldProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layered-samples/sample-dependency-injection/di-hello-world/src/main/resources/layers.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layered-samples/sample-dependency-injection/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layered-samples/sample-dependency-injection/sample-dependency-injection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/excelsior/layered/LayerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layered-samples/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/layered-samples/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layered-samples/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/layered-samples/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layered-samples/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/layered-samples/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/layered-samples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/layered-samples/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layered-samples/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/layered-samples/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/layered-samples/sample-create-layer/hello-world/hello-world.iml" beforeDir="false" afterPath="$PROJECT_DIR$/layered-samples/sample-create-layer/hello-world/hello-world.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/excelsior/layered/ModuleLayers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/excelsior/layered/ModuleLayers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layered-samples/sample-create-layer/hello-world/src/main/java/ru/excelsior/layered/samples/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/layered-samples/sample-create-layer/hello-world/src/main/java/ru/excelsior/layered/samples/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layered-samples/sample-dependency-injection/di-hello-world-provider/di-hello-world-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/layered-samples/sample-dependency-injection/di-hello-world-provider/di-hello-world-provider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layered-samples/sample-meta-data-layer/onemore-hello-world-provider/onemore-hello-world-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/layered-samples/sample-meta-data-layer/onemore-hello-world-provider/onemore-hello-world-provider.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,51 +57,48 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1797692326">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="20" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="20" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/module-info.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="15">
               <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar!/META-INF/MANIFEST.MF">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/excelsior/layered/ModuleLayers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
+            <state relative-caret-position="619">
               <caret line="97" selection-start-line="97" selection-end-line="97" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3030#3031#0" expanded="true" />
-                <element signature="e#3084#3085#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/jdk-9/lib/src.zip!/java.base/java/lang/reflect/Field.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="772" column="16" selection-start-line="772" selection-start-column="16" selection-end-line="772" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/jdk-9/lib/src.zip!/java.base/java/lang/StackWalker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="206" column="8" selection-start-line="206" selection-start-column="8" selection-end-line="206" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -123,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/excelsior/layered/LayerService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="105">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -133,36 +116,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar!/org/yaml/snakeyaml/Yaml.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1103">
-              <caret line="246" column="28" selection-start-line="246" selection-start-column="28" selection-end-line="246" selection-end-column="28" />
-              <folding>
-                <element signature="e#9222#9223#0" expanded="true" />
-                <element signature="e#9292#9293#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/excelsior/layered/LayerDescription.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
+            <state relative-caret-position="375">
               <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
               <folding>
-                <element signature="e#175#176#0" expanded="true" />
                 <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
                 <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
-                <element signature="e#576#577#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
                 <element signature="e#665#666#0" expanded="true" />
                 <element signature="e#709#710#0" expanded="true" />
                 <element signature="e#745#746#0" expanded="true" />
@@ -174,16 +136,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
+            <state relative-caret-position="345">
               <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.21/snakeyaml-1.21.pom">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-195" />
           </provider>
         </entry>
       </file>
@@ -222,14 +177,24 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Layered" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Layered" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1434" />
-    <option name="height" value="839" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="812" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -237,8 +202,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,36 +239,21 @@
               <item name="layered" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
-            <path>
-              <item name="layered" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.yaml:snakeyaml:1.21" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="layered" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.yaml:snakeyaml:1.21" type="70bed36:NamedLibraryElementNode" />
-              <item name="snakeyaml-1.21.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="layered" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.yaml:snakeyaml:1.21" type="70bed36:NamedLibraryElementNode" />
-              <item name="snakeyaml-1.21.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544422814819" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/layered-samples" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -375,20 +323,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="23" width="1434" height="812" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Nl-Palette" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Image Layers" order="2" />
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.17217484" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.18088235" />
       <window_info id="Structure" order="4" weight="0.25" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Palette&#9;" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.41774893" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35427952" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35410765" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40367964" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.3995657" />
@@ -407,7 +355,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.23187633" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="IDEtalk" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.3375" />
       <window_info anchor="right" id="Designer" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Properties" order="8" />
@@ -421,85 +369,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/jdk-9/lib/src.zip!/java.base/java/lang/ModuleLayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="750" column="25" selection-start-line="750" selection-start-column="25" selection-end-line="750" selection-end-column="25" />
-          <folding>
-            <element signature="e#31167#31168#0" expanded="true" />
-            <element signature="e#31192#31193#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/jdk-9/lib/src.zip!/java.base/jdk/internal/reflect/Reflection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="$JET_CPU_BITS$" column="34" selection-start-line="$JET_CPU_BITS$" selection-start-column="34" selection-end-line="$JET_CPU_BITS$" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/jdk-9/lib/src.zip!/java.base/java/lang/Module.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="962" column="18" selection-start-line="962" selection-start-column="18" selection-end-line="962" selection-end-column="18" />
-          <folding>
-            <element signature="e#54634#54635#0" expanded="true" />
-            <element signature="e#54701#54702#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.21/snakeyaml-1.21.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-195" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar!/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar!/org/yaml/snakeyaml/Yaml.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1103">
-          <caret line="246" column="28" selection-start-line="246" selection-start-column="28" selection-end-line="246" selection-end-column="28" />
-          <folding>
-            <element signature="e#9222#9223#0" expanded="true" />
-            <element signature="e#9292#9293#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/module-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/jdk-9/lib/src.zip!/java.base/java/lang/ModuleLayer.java" />
+    <entry file="jar://C:/jdk-9/lib/src.zip!/java.base/jdk/internal/reflect/Reflection.java" />
+    <entry file="jar://C:/jdk-9/lib/src.zip!/java.base/java/lang/Module.java" />
+    <entry file="file://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.21/snakeyaml-1.21.pom" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar!/META-INF/MANIFEST.MF" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar!/org/yaml/snakeyaml/Yaml.class" />
+    <entry file="jar://C:/jdk-9/lib/src.zip!/java.base/java/lang/StackWalker.java" />
+    <entry file="jar://C:/jdk-9/lib/src.zip!/java.base/java/lang/reflect/Field.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
+        <state relative-caret-position="345">
           <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/excelsior/layered/LayerDescription.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
+        <state relative-caret-position="375">
           <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
           <folding>
-            <element signature="e#175#176#0" expanded="true" />
             <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
             <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
             <element signature="e#665#666#0" expanded="true" />
             <element signature="e#709#710#0" expanded="true" />
             <element signature="e#745#746#0" expanded="true" />
@@ -509,7 +402,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/excelsior/layered/LayerService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -517,28 +410,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/jdk-9/lib/src.zip!/java.base/java/lang/StackWalker.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/module-info.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="206" column="8" selection-start-line="206" selection-start-column="8" selection-end-line="206" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/jdk-9/lib/src.zip!/java.base/java/lang/reflect/Field.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="772" column="16" selection-start-line="772" selection-start-column="16" selection-end-line="772" selection-end-column="16" />
+        <state relative-caret-position="15">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/excelsior/layered/ModuleLayers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
+        <state relative-caret-position="619">
           <caret line="97" selection-start-line="97" selection-end-line="97" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3030#3031#0" expanded="true" />
-            <element signature="e#3084#3085#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -584,7 +468,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.5</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

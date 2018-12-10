@@ -2,27 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26acf5d7-4ca5-4b4f-8729-df547a96c0ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sample-dependency-injection/di-hello-world-provider/di-hello-world-provider.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample-dependency-injection/di-hello-world-provider/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample-dependency-injection/di-hello-world-provider/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample-dependency-injection/di-hello-world-provider/src/main/java/ru/excelsior/layered/samples/helloworldprovider/HelloWorldProviderImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample-dependency-injection/di-hello-world/di-hello-world.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample-dependency-injection/di-hello-world/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample-dependency-injection/di-hello-world/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample-dependency-injection/di-hello-world/src/main/java/ru/excelsior/layered/samples/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample-dependency-injection/di-hello-world/src/main/java/ru/excelsior/layered/samples/spi/helloworldprovider/HelloWorldProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample-dependency-injection/di-hello-world/src/main/resources/layers.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample-dependency-injection/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample-dependency-injection/sample-dependency-injection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/main/java/ru/excelsior/layered/LayerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample-create-layer/hello-world/hello-world.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sample-create-layer/hello-world/hello-world.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/excelsior/layered/ModuleLayers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/ru/excelsior/layered/ModuleLayers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-create-layer/hello-world/src/main/java/ru/excelsior/layered/samples/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample-create-layer/hello-world/src/main/java/ru/excelsior/layered/samples/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-dependency-injection/di-hello-world-provider/di-hello-world-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sample-dependency-injection/di-hello-world-provider/di-hello-world-provider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-meta-data-layer/onemore-hello-world-provider/onemore-hello-world-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sample-meta-data-layer/onemore-hello-world-provider/onemore-hello-world-provider.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/sample-create-layer-load-services/target/" />
     <ignored path="$PROJECT_DIR$/sample-create-layer/hello-world-provider/target/" />
@@ -49,6 +35,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/layered_samples$sample_meta_data_layer.ic" NAME="sample-meta-data-layer Coverage Results" MODIFIED="1544427988885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="712477125">
@@ -93,14 +82,48 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1796641665">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="44" />
+          <entry key="yml" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="44" />
+          <entry key="YAML" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="18" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample-create-layer-load-services/another-hello-world/src/main/java/ru/excelsior/layered/samples/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            <state relative-caret-position="180">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -108,17 +131,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample-meta-data-layer/onemore-hello-world/src/main/java/ru/excelsior/layered/samples/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+            <state relative-caret-position="105">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample-dependency-injection/di-hello-world/src/main/java/ru/excelsior/layered/samples/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            <state relative-caret-position="225">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -126,8 +149,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample-layered/layered-hello-world/src/main/java/ru/excelsior/layered/samples/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="105">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -135,8 +158,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample-layered/layered-greeter/src/main/java/ru/excelsior/layered/samples/helloworldprovider/HelloWorldProviderImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="150">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -147,7 +170,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample-layered/layered-name-provider/src/main/java/ru/excelsior/layered/samples/helloworldprovider/NameProviderImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
                 <element signature="e#241#242#0" expanded="true" />
@@ -160,17 +183,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample-layered/layered-hello-world/src/main/resources/layers.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            <state relative-caret-position="60">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sample-create-layer/hello-world/src/main/java/ru/excelsior/layered/samples/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="405">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -178,7 +201,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample-dependency-injection/di-hello-world/src/main/resources/layers.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="15">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
@@ -187,8 +210,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample-meta-data-layer/onemore-hello-world/src/main/resources/layers.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="53" lean-forward="true" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+            <state relative-caret-position="15">
+              <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -231,6 +254,7 @@
         <option value="$PROJECT_DIR$/sample-dependency-injection/di-hello-world-provider/src/main/java/module-info.java" />
         <option value="$PROJECT_DIR$/sample-dependency-injection/di-hello-world/src/main/java/module-info.java" />
         <option value="$PROJECT_DIR$/sample-dependency-injection/di-hello-world/src/main/java/ru/excelsior/layered/samples/App.java" />
+        <option value="$PROJECT_DIR$/sample-create-layer/hello-world/src/main/java/ru/excelsior/layered/samples/App.java" />
       </list>
     </option>
   </component>
@@ -240,10 +264,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1434" />
-    <option name="height" value="839" />
+    <option name="height" value="812" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -251,7 +275,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -262,34 +285,34 @@
             <path>
               <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
               <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
-              <item name="sample-dependency-injection" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-create-layer-load-services" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
               <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
-              <item name="sample-dependency-injection" type="462c0819:PsiDirectoryNode" />
-              <item name="di-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-create-layer-load-services" type="462c0819:PsiDirectoryNode" />
+              <item name="another-hello-world" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
               <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
-              <item name="sample-dependency-injection" type="462c0819:PsiDirectoryNode" />
-              <item name="di-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-create-layer-load-services" type="462c0819:PsiDirectoryNode" />
+              <item name="another-hello-world" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
               <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
-              <item name="sample-dependency-injection" type="462c0819:PsiDirectoryNode" />
-              <item name="di-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-create-layer-load-services" type="462c0819:PsiDirectoryNode" />
+              <item name="another-hello-world" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
               <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
-              <item name="sample-dependency-injection" type="462c0819:PsiDirectoryNode" />
-              <item name="di-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-create-layer-load-services" type="462c0819:PsiDirectoryNode" />
+              <item name="another-hello-world" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -297,8 +320,8 @@
             <path>
               <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
               <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
-              <item name="sample-dependency-injection" type="462c0819:PsiDirectoryNode" />
-              <item name="di-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-create-layer-load-services" type="462c0819:PsiDirectoryNode" />
+              <item name="another-hello-world" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -307,8 +330,98 @@
             <path>
               <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
               <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
-              <item name="sample-dependency-injection" type="462c0819:PsiDirectoryNode" />
-              <item name="di-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-layered" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-layered" type="462c0819:PsiDirectoryNode" />
+              <item name="layered-greeter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-layered" type="462c0819:PsiDirectoryNode" />
+              <item name="layered-greeter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-layered" type="462c0819:PsiDirectoryNode" />
+              <item name="layered-greeter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-layered" type="462c0819:PsiDirectoryNode" />
+              <item name="layered-greeter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-layered" type="462c0819:PsiDirectoryNode" />
+              <item name="layered-greeter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworldprovider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-meta-data-layer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-meta-data-layer" type="462c0819:PsiDirectoryNode" />
+              <item name="onemore-hello-world" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-meta-data-layer" type="462c0819:PsiDirectoryNode" />
+              <item name="onemore-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-meta-data-layer" type="462c0819:PsiDirectoryNode" />
+              <item name="onemore-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-meta-data-layer" type="462c0819:PsiDirectoryNode" />
+              <item name="onemore-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-meta-data-layer" type="462c0819:PsiDirectoryNode" />
+              <item name="onemore-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="samples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layered-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layered-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-meta-data-layer" type="462c0819:PsiDirectoryNode" />
+              <item name="onemore-hello-world" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -317,12 +430,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544422814898" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sample-dependency-injection" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544431010098" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -364,7 +480,8 @@
     <configuration name="sample-create-layer-load-services" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ru.excelsior.layered.samples.App" />
       <module name="another-hello-world" />
-      <option name="PROGRAM_PARAMETERS" value="C:\work\kit\github\layered\layered-samples\sample-create-layer-load-services\another-hello-beautiful-world-provider\target\classes" />
+      <option name="PROGRAM_PARAMETERS" value="another-hello-beautiful-world-provider/target/classes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sample-create-layer-load-services" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -372,7 +489,8 @@
     <configuration name="sample-create-layer" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ru.excelsior.layered.samples.App" />
       <module name="hello-world" />
-      <option name="PROGRAM_PARAMETERS" value="C:\work\kit\github\layered\layered-samples\sample-create-layer\hello-beautiful-world-provider\target\classes" />
+      <option name="PROGRAM_PARAMETERS" value="hello-beautiful-world-provider/target/classes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sample-create-layer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -449,21 +567,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Nl-Palette" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Image Layers" order="2" />
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.17217484" />
+      <window_info content_ui="combo" id="Project" order="3" weight="0.34305555" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Palette&#9;" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4171181" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35427952" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40303358" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35333332" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40222222" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.3995657" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -471,7 +589,7 @@
       <window_info anchor="bottom" id="Application Servers" order="8" />
       <window_info anchor="bottom" id="Changes" order="9" weight="0.22943723" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32502708" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Reviews" order="13" />
       <window_info anchor="bottom" id="IDEtalk Messages" order="14" />
@@ -481,7 +599,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.23187633" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="IDEtalk" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.06076759" />
+      <window_info anchor="right" id="Maven Projects" order="5" sideWeight="0.49858356" weight="0.058577407" />
       <window_info anchor="right" id="Designer" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Properties" order="8" />
@@ -489,7 +607,48 @@
       <window_info anchor="right" id="Capture Analysis" order="10" />
       <window_info anchor="right" id="Theme Preview" order="11" />
       <window_info anchor="right" id="Gradle" order="12" visible="true" weight="0.2553305" />
+      <window_info anchor="right" id="Coverage" order="13" sideWeight="0.50141644" side_tool="true" visible="true" weight="0.060344826" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Nl-Palette" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info content_ui="combo" id="Project" order="3" weight="0.34305555" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Palette&#9;" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.4171181" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35333332" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40222222" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.3995657" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="8" />
+      <window_info anchor="bottom" id="Changes" order="9" weight="0.22943723" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32502708" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Reviews" order="13" />
+      <window_info anchor="bottom" id="IDEtalk Messages" order="14" />
+      <window_info anchor="bottom" id="Build" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.23187633" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="IDEtalk" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" sideWeight="0.49858356" weight="0.058577407" />
+      <window_info anchor="right" id="Designer" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Properties" order="8" />
+      <window_info anchor="right" id="News Feed" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+      <window_info anchor="right" id="Gradle" order="12" visible="true" weight="0.2553305" />
+      <window_info anchor="right" id="Coverage" order="13" sideWeight="0.50141644" side_tool="true" visible="true" weight="0.060344826" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -528,22 +687,10 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sample-create-layer-load-services/another-hello-world-provider/src/main/java/module-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/sample-create-layer-load-services/another-hello-beautiful-world-provider/src/main/java/module-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/sample-create-layer-load-services/another-hello-world-provider/src/main/java/ru/excelsior/layered/samples/helloworldprovider/HelloWorldProviderImpl.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -559,13 +706,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/jdk-11/lib/src.zip!/java.base/java/io/PushbackInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="162" selection-start-line="162" selection-end-line="162" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/jdk-11/lib/src.zip!/java.base/java/io/PushbackInputStream.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar!/org/yaml/snakeyaml/reader/StreamReader.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1666">
@@ -583,13 +724,7 @@
     <entry file="file://$PROJECT_DIR$/sample-layered/layered-greeter/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://C:/jdk-11/lib/src.zip!/java.base/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="796" column="16" selection-start-line="796" selection-start-column="16" selection-end-line="796" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/jdk-11/lib/src.zip!/java.base/java/util/stream/Stream.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar!/org/yaml/snakeyaml/constructor/Constructor.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -601,9 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="232" selection-start-line="232" selection-end-line="232" />
-          <folding>
-            <element signature="e#8872#8873#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -621,18 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#481#482#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample-layered/layered-greeter/src/main/java/ru/excelsior/layered/samples/helloworldprovider/spi/nameprovider/NameProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -640,9 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -650,9 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -667,25 +781,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="60" lean-forward="true" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample-dependency-injection/di-hello-world-provider/target/classes/module-info.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/ru/excelsior/layered/layered/0.1-SNAPSHOT/layered-0.1-SNAPSHOT.jar!/ru/excelsior/layered/ModuleLayers.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="114" selection-start-line="114" selection-end-line="114" />
-          <folding>
-            <element signature="e#2587#2588#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-dependency-injection/di-hello-world-provider/target/classes/module-info.class" />
     <entry file="file://$PROJECT_DIR$/sample-meta-data-layer/onemore-hello-world/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -696,44 +795,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample-create-layer/hello-world/src/main/java/ru/excelsior/layered/samples/App.java">
+    <entry file="file://$PROJECT_DIR$/sample-layered/layered-greeter/src/main/java/ru/excelsior/layered/samples/helloworldprovider/spi/nameprovider/NameProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="58">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/ru/excelsior/layered/layered/0.1-SNAPSHOT/layered-0.1-SNAPSHOT.jar!/ru/excelsior/layered/ModuleLayers.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sample-meta-data-layer/onemore-hello-world/src/main/resources/layers.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="53" lean-forward="true" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+        <state relative-caret-position="15">
+          <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample-meta-data-layer/onemore-hello-world/src/main/java/ru/excelsior/layered/samples/App.java">
+    <entry file="file://$PROJECT_DIR$/sample-dependency-injection/di-hello-world/src/main/resources/layers.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample-create-layer-load-services/another-hello-world/src/main/java/ru/excelsior/layered/samples/App.java">
+    <entry file="file://$PROJECT_DIR$/sample-layered/layered-hello-world/src/main/resources/layers.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample-layered/layered-hello-world/src/main/java/ru/excelsior/layered/samples/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="60">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sample-layered/layered-name-provider/src/main/java/ru/excelsior/layered/samples/helloworldprovider/NameProviderImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding>
             <element signature="e#241#242#0" expanded="true" />
@@ -742,34 +841,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample-layered/layered-hello-world/src/main/resources/layers.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sample-layered/layered-greeter/src/main/java/ru/excelsior/layered/samples/helloworldprovider/HelloWorldProviderImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        <state relative-caret-position="150">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample-dependency-injection/di-hello-world/src/main/resources/layers.yml">
+    <entry file="file://$PROJECT_DIR$/sample-layered/layered-hello-world/src/main/java/ru/excelsior/layered/samples/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="105">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sample-dependency-injection/di-hello-world/src/main/java/ru/excelsior/layered/samples/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        <state relative-caret-position="225">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-meta-data-layer/onemore-hello-world/src/main/java/ru/excelsior/layered/samples/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-create-layer-load-services/another-hello-world/src/main/java/ru/excelsior/layered/samples/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-create-layer/hello-world/src/main/java/ru/excelsior/layered/samples/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
@@ -814,7 +927,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.5</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -826,12 +939,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>di-hello-world</last-edited>
+          <last-edited>onemore-hello-world</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

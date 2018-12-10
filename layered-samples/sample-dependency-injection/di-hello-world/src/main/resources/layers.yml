@@ -1,0 +1,2 @@
+path: di-hello-world-provider/target/classes
+rootModules: di.hello.world.provider

@@ -1,8 +1,11 @@
 package ru.excelsior.layered;
 
 import java.io.InputStream;
+import java.lang.StackWalker.Option;
 import java.lang.module.Configuration;
 import java.lang.module.ModuleFinder;
+import java.lang.reflect.Field;
+import java.lang.reflect.Modifier;
 import java.nio.file.Paths;
 import java.util.*;
 import java.util.stream.Collectors;
@@ -82,5 +85,27 @@ public class ModuleLayers {
 
     public static <T> List<T>  loadService(Class<T> service) {
         return loadService("default", service);
+    }
+
+    public static void initialize() {
+        StackWalker walker = StackWalker.getInstance(Option.RETAIN_CLASS_REFERENCE);
+        Class<?> caller = walker.getCallerClass();
+        initializeLayers(caller.getClassLoader());
+        //TODO: perform classpath scanning, create beans and handle non-static fields
+        //TODO: investigate if ready-to-use DI frameworks (Spring, Guice) can be used for
+        //      layers service injection instead of our new wheel.
+        Field[] fields = caller.getDeclaredFields();
+        for (Field f: fields) {
+            if (Modifier.isStatic(f.getModifiers()) && f.isAnnotationPresent(LayerService.class)) {
+                List<?> services = loadService(f.getType());
+                if (services.size() > 0) {
+                    f.setAccessible(true);
+                    try {
+                        f.set(null, services.get(0));
+                    } catch (IllegalAccessException ignore) {
+                    }
+                }
+            }
+        }
     }
 }

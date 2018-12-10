@@ -9,6 +9,8 @@
         <module name="another-hello-beautiful-world-provider" />
         <module name="another-hello-world" />
         <module name="another-hello-world-provider" />
+        <module name="di-hello-world" />
+        <module name="di-hello-world-provider" />
         <module name="hello-beautiful-world-provider" />
         <module name="hello-world" />
         <module name="hello-world-provider" />
@@ -24,6 +26,8 @@
       <module name="another-hello-beautiful-world-provider" target="10" />
       <module name="another-hello-world" target="10" />
       <module name="another-hello-world-provider" target="10" />
+      <module name="di-hello-world" target="10" />
+      <module name="di-hello-world-provider" target="10" />
       <module name="hello-beautiful-world-provider" target="10" />
       <module name="hello-world" target="10" />
       <module name="hello-world-provider" target="10" />
@@ -36,6 +40,7 @@
       <module name="onemore-hello-world-provider" target="10" />
       <module name="sample-create-layer" target="9" />
       <module name="sample-create-layer-load-services" target="9" />
+      <module name="sample-dependency-injection" target="9" />
       <module name="sample-layered" target="9" />
       <module name="sample-meta-data-layer" target="9" />
     </bytecodeTargetLevel>

@@ -5,19 +5,16 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ru.excelsior.layered.samples</groupId>
-  <artifactId>layered-samples</artifactId>
+  <artifactId>sample-dependency-injection</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <modules>
-    <module>sample-create-layer</module>
-    <module>sample-create-layer-load-services</module>
-    <module>sample-meta-data-layer</module>
-    <module>sample-layered</module>
-    <module>sample-dependency-injection</module>
+    <module>di-hello-world</module>
+    <module>di-hello-world-provider</module>
   </modules>
 
-  <name>layered-samples</name>
+  <name>sample-create-layer</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
